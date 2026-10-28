@@ -9,11 +9,11 @@ plugins {
 }
 
 android {
-  namespace = "com.example"
+  namespace = "de.mrt.rich2euro"
   compileSdk { version = release(36) { minorApiLevel = 1 } }
 
   defaultConfig {
-    applicationId = "com.aistudio.rich2euro.vnkxqp"
+    applicationId = "de.mrt.rich2euro"
     minSdk = 24
     targetSdk = 36
     versionCode = 1
